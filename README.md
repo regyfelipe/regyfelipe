@@ -2,6 +2,22 @@
 
 ###
 
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
 <img align="right" height="150" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-2.gif"  />
 
 ###
