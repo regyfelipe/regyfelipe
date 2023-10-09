@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I am currently attending ADS college<br>🎯 Goals: Become a Senior Developer<br>🎲 Curiosity: I like sports, reading and learning new things</p>
 
 ###
 
