@@ -1,10 +1,5 @@
 <h2 align="left">Hello 👋! My name is Regy Felipe and I'm from Fortaleza Ceará</h2>
 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
 
 <h2 align="left">About me</h2>
 
