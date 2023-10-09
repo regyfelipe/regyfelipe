@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-2.gif"  />
+
 
 ###
 
