@@ -31,7 +31,8 @@
 
 <p align="left">
 ✨ Criando bugs com estilo desde 2023<br>
-📚 Cursando faculdade em ADS na Descomplica e em Ciência de Dados na Unifanor<br>
+📚 Cursando faculdade em ADS na Descomplica e Ciência de Dados na Unifanor<br>
+📚 Curos na Alura 🎲<br>
 🎯 Objetivo: Tornar-me um Desenvolvedor Sênior<br>
 🎲 Curiosidade: Amante de esportes, leitor ávido e sempre em busca de aprender coisas novas!
 </p>
