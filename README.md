@@ -60,4 +60,14 @@
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=regyfelipe&icon=3&color=2)](https://visitcount.itsvg.in)
 
+<h3 align="left">🔥   My Stats :</h3>
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ev3hqwdtivx43qzydlqnwgbrwa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ev3hqwdtivx43qzydlqnwgbrwa&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
