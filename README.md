@@ -51,9 +51,10 @@
 ---
 
 # 📊 GitHub Universe:
-![](https://github-readme-stats.vercel.app/api?username=regyfelipe&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=regyfelipe&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=regyfelipe&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=regyfelipe&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=regyfelipe&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=regyfelipe&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
