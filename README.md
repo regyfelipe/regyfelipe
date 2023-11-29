@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="//i.imgflip.com/87oai2" style="border-radius: 10px;"/>
+  <img height="200" src="https://i.imgflip.com/87oai2.gif" style="border-radius: 10px;"/>
 </div>
 
 ---
