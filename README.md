@@ -56,9 +56,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=regyfelipe&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+
 ---
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=regyfelipe&icon=3&color=2)](https://visitcount.itsvg.in)
+
+
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -71,3 +75,10 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
