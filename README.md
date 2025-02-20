@@ -66,3 +66,8 @@
 
 ###
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=regyfelipe&show_icons=true&locale=en" alt="regyfelipe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regyfelipe&" alt="regyfelipe" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=regyfelipe&show_icons=true&locale=en&layout=compact" alt="regyfelipe" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regyfelipe" alt="regyfelipe" /></a></p>
